@@ -1,0 +1,143 @@
+body {
+    color: #40514E;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 0; 
+    color: #66BFBF;
+    
+}
+h3 {
+    margin-top: 0; 
+    color: #66BFBF;
+    
+}
+p{
+    line-height: 2;
+ }
+
+ hr{
+    border: dotted lightgrey 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+ }
+
+.bottom-container a{
+    text-decoration: none;
+    color: #EAF6F6;
+    font-family: 'Nunito', sans-serif;
+    margin: 10px 20px;
+}   
+
+.bottom-container p{
+    margin: 25px 0 15px;
+    color: #EAF6F6;
+    font-size: 12px;
+  }
+
+
+
+  
+
+.top-container {
+    background:url(banner6.png);
+    height: 400px;     
+}
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.middle-container{
+    
+    text-align: center;
+    
+
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    text-align: center;
+    padding: 50px 0 20px;
+
+}
+
+.profil {
+    height: 200px;
+    position: relative;
+    margin-top: 50px;
+}
+h1{
+    color: #66BFBF;
+    text-align: center;
+}
+
+.top-container p {
+    color: lightgray;
+    text-align: center;
+    margin-bottom: 8%;
+
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;   
+}
+
+.btn {
+    margin-top: 40px;
+    background-color: #66BFBF;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px 10px 20px;
+    font-size: 1àpx;
+    
+  
+}
+  
+ 
+.contact-me button:hover{
+    background-color: #11CDD4;
+  
+}
+  
+.contact-me{
+    width: 30%;
+    margin: 40px auto 60px;
+}
+
+.code{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.backend{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.frontend{
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+.python{
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+.skill{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
